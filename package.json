@@ -1,0 +1,26 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "my app",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halfice/happ.git"
+  },
+  "keywords": [
+    "herokuapp"
+  ],
+  "author": "abdulaziz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/halfice/happ/issues"
+  },
+  "homepage": "https://github.com/halfice/happ#readme"
+}
